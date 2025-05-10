@@ -1,6 +1,5 @@
-I am a Master's degree student at Chitose Institute of Science and Technology.
+System Engineer in Japan
 
-Learning digital twins
 
 [![X Badge](https://img.shields.io/badge/-RyutaKojo-black?style=flat&logo=X&logoColor=white)](https://twitter.com/RyutaKojo)
 [![Linkedin Badge](https://img.shields.io/badge/-RyutaKojo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryutakojo/)
